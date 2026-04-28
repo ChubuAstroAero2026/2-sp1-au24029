@@ -9,7 +9,7 @@ int main(void)
     scanf("%lf", &a);
     scanf("%d", &b);
 
-    printf("%.*f\n", b, a);
+    printf("%.*f\n", a, b);
 
   return 0;
 }
